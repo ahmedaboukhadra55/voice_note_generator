@@ -1,0 +1,6 @@
+{
+  "name": "مُولد الرسائل الصوتية 2N",
+  "description": "مُولد فويس نوت احترافي باللهجة المصرية للمبيعات والتجارة لشركة 2N باستخدام الذكاء الاصطناعي Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
